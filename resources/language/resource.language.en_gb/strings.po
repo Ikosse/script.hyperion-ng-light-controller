@@ -1,0 +1,103 @@
+# Kod Media Center language file
+# Addon Name: Hyperion-ng Controller
+# Addon id: script.hyperion-ng-controller
+# Addon Provider: ikosse
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: English (http://www.transifex.com/projects/p/xbmc-addons/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+
+## Main menu strings ##
+msgctxt "#30000"
+msgid "Turn Off"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Sources"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Effects"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Components"
+msgstr ""
+
+msgctxt "#30004"
+msgid "About"
+msgstr ""
+
+
+## Error strings ##
+msgctxt "#30100"
+msgid "Error"
+msgstr ""
+
+msgctxt "#30101"
+msgid "Authorization failed, please provide a valid Hyperion token in the add-on settings menu; for information on how to create an authorization token in the Web UI, visit https://docs.hyperion-project.org/en/json/Authorization.html."
+msgstr ""
+
+msgctxt "#30102"
+msgid "Failed to establish a connection with"
+msgstr ""
+
+msgctxt "#30103"
+msgid "Make sure you have entered the correct address in the add-on settings menu and that the Hyperion server is active."
+msgstr ""
+
+msgctxt "#30104"
+msgid "An unknown error occurred, see the log for more information."
+msgstr ""
+
+## Settting strings ##
+msgctxt "#32000"
+msgid "General"
+msgstr ""
+
+msgctxt "#32001"
+msgid "Hyperion server"
+msgstr ""
+
+msgctxt "#32002"
+msgid "IP"
+msgstr ""
+
+msgctxt "#32003"
+msgid "Port"
+msgstr ""
+
+msgctxt "#32004"
+msgid "Protocol"
+msgstr ""
+
+msgctxt "#32005"
+msgid "Token"
+msgstr ""
+
+## Settings help strings ##
+msgctxt "#32100"
+msgid "IP address of the device running the Hyperion server (default localhost)."
+msgstr ""
+
+msgctxt "#32101"
+msgid "Port number of the Hyperion server (default 8080)."
+msgstr ""
+
+msgctxt "#32102"
+msgid "The application protocol used for communicating with the Hyperion JSON RPC (default http)."
+msgstr ""
+
+msgctxt "#32103"
+msgid "Tokens are used for authenticating the Kodi-controller application to the Hyperion server. It is only needed if the Hyperion server has explicitly been configured to require authentication. Be aware even though the token is replaced by astrices in the settings menu, it is still stored in clear text on disk."
+msgstr ""
