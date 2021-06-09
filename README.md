@@ -1,5 +1,15 @@
 # Hyperion.ng Light Controller
-Hyperion-ng Light Controller is a Kodi add-on aiming at provding a simple and intuitive GUI to remotely control your Hyperion server. To get started all you have to do is enter IP and port number of the Hyperion server as well as protocol (http or https) into the settings menu. The add-on communicates with the Hyperion server through JSON RPC, so make sure it is active. Functions include choosing effect patterns, turning on/off LEDs, toggling platform capture (bias lighting) or any other service you have configured. Note, that this add-on is not for configuring or setting up your Hyperion server, for this purpose use the Web-UI or the CLI.
+Hyperion-ng Light Controller is a Kodi add-on which provides a simple and intuitive GUI for controlling your Hyperion server. The add-on works by sending JSON-RPC to the Hyperion server via HTTP/HTTPS.
+
+* Features
+	* Turn on/off LEDs
+	* Source selection
+	* Set and activate effect pattern
+	* Components Control, eg. toggle bias lighting, black-border detection etc.
+	* Token authorization
+	
+## Configuriation
+To connect to the Hyperion server, enter the IP and port number of the server as well as application protocol (http or https) into the settings menu. By default the add-on assume the Hyperion server runs on localhost (127.0.0.1) on port 8090 via http. Note, that this add-on is not for configuring or setting up your Hyperion server, for this purpose use the Web-UI or the CLI.
 
 ## Screenshots
 <table>
