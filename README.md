@@ -1,5 +1,5 @@
 # Hyperion.ng Light Controller
-Hyperion-ng Light Controller is a Kodi add-on which provides a simple and intuitive GUI for controlling your Hyperion server. The add-on works by sending JSON-RPC to the Hyperion server via HTTP/HTTPS.
+Hyperion-ng Light Controller is a Kodi add-on which provides a simple and intuitive GUI for controlling your Hyperion server. The add-on works by sending JSON-RPC over http/https to the Hyperion server.
 
 * Features
 	* Turn on/off LEDs
