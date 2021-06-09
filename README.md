@@ -25,4 +25,4 @@ To connect to the Hyperion server, enter the IP and port number of the server as
 This add-on is unofficial and its author has no affiliation with https://docs.hyperion-project.org.
 
 ## Additional notes
-Also check out the official Kodi controller which has more features: https://github.com/hyperion-project/hyperion.control 
+Also check out the official Kodi controller which has more features: https://github.com/hyperion-project/hyperion.control.
