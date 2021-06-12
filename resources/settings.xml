@@ -28,11 +28,11 @@
 
 				<setting id="protocol" type="string" label="32004" help="32102">
 					<level>0</level>
-					<default>HTTP</default>
+					<default>http</default>
 					<constraints>
 						<options>
-							<option>HTTP</option>
-							<option>HTTPS</option>
+							<option>http</option>
+							<option>https</option>
 						</options>
 					<constraints>
 						<allowempty>false</allowempty>

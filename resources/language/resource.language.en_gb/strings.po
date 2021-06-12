@@ -91,7 +91,7 @@ msgid "IP address of the device running the Hyperion server (default localhost).
 msgstr ""
 
 msgctxt "#32101"
-msgid "Port number of the Hyperion server (default 8080)."
+msgid "Port number of the Hyperion server (default 8090)."
 msgstr ""
 
 msgctxt "#32102"
