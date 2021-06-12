@@ -7,15 +7,13 @@
         <provides>executable</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-			<summary lang="en_GB"></summary>
-			<description lang="en_GB"></description>
+		<summary lang="en_GB">A simple GUI for controlling your Hyperion server.</summary>
+		<description lang="en_GB">Hyperion-ng Light Controller is a Kodi add-on which provides a simple and intuitive GUI for controlling your Hyperion server. The add-on works by sending JSON-RPC to the Hyperion server over http/https.</description>
         <platform>all</platform>
         <license>GPL-2.0-or-later</license>
         <forum></forum>
         <email>andrelofgren@hotmail.co.uk</email>
         <source>https://github.com/Ikosse/script.hyperion-ng-controller</source>
-		<summary lang="en">A simple GUI for controlling your Hyperion server.</summary>
-		<description lang="en">Hyperion-ng Light Controller is a Kodi add-on which provides a simple and intuitive GUI for controlling your Hyperion server. The add-on works by sending JSON-RPC to the Hyperion server over http/https.</description>
         <disclaimer>This add-on is unofficial and is not supported nor endorsed by https://docs.hyperion-project.org.</disclaimer>
         <assets>
             <icon>resources/icon.png</icon>
